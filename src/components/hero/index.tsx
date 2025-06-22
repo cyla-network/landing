@@ -14,10 +14,10 @@ export default function Hero() {
       }}
     >
       <div ref={titleRef} className={`animate-text-reveal ${titleVisible ? 'visible' : ''}`}>
-        <h1 className="text-white md:text-5xl text-3xl font-extrabold">Smart Redistribution. Safe Healthcare.</h1>
+        <h1 className="text-white md:text-5xl text-3xl font-extrabold px-2">Smart Redistribution. Safe Healthcare.</h1>
       </div>
       <div ref={textRef} className={`animate-text-reveal ${textVisible ? 'visible' : ''}`}>
-        <p className="text-slate-100 md:text-lg max-w-2xl mt-4">
+        <p className="text-slate-100 md:text-lg max-w-2xl mt-4 px-2">
          {`Cyla's Drug Network (CDN) is a collaborative platform created to reduce pharmaceutical wastage and improve access to essential medicines.`}
         </p>
       </div>
