@@ -29,7 +29,7 @@ export default function Contact() {
           <div className="text-[var(--secondary-text-color)] text-base font-medium leading-normal flex items-center gap-2">
             <Phone size={20} className="text-[var(--primary-color)]" /> Mobile
           </div>
-          <a href="tel:+2348031234567" className="text-[var(--primary-text-color)] text-base font-normal leading-normal hover:text-[var(--primary-color)] transition-colors">+234 803 123 4567</a>
+          <a href="tel:+2348031234567" className="text-[var(--primary-text-color)] text-base font-normal leading-normal hover:text-[var(--primary-color)] transition-colors">+234 816 605 6543</a>
         </div>
       </div>
       </div>
