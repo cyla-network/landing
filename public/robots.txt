@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://cyladrugnetwork.com/sitemap.xml
+
+# Block access to Next.js internal files
+Disallow: /_next/
+Disallow: /api/
