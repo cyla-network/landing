@@ -14,7 +14,7 @@ export default function About() {
       </div>
       <div ref={textRef} className={`animate-text-reveal ${textVisible ? 'visible' : ''}`}>
         <p className="text-[var(--secondary-text-color)] leading-relaxed pt-2 px-4">
-        Our vision is to become the leading force in sustainable pharmaceutical logistics by transforming drug redistribution into a standard of care, ensuring no viable medicine goes to waste.
+        Our vision is to become the leading force in transforming drug redistribution into a standard of care, ensuring no viable medicine goes to waste.
         <br />
         <br />
         Our mission is to create a seamless, tech-enabled redistribution system for short-dated but viable medications.
